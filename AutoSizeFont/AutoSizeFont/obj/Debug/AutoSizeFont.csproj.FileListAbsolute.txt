@@ -1,0 +1,8 @@
+E:\C#Programs\AutoSizeFont\AutoSizeFont\bin\Debug\AutoSizeFont.exe
+E:\C#Programs\AutoSizeFont\AutoSizeFont\bin\Debug\AutoSizeFont.pdb
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.csprojResolveAssemblyReference.cache
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.frmMain.resources
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.Properties.Resources.resources
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.csproj.GenerateResource.Cache
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.exe
+E:\C#Programs\AutoSizeFont\AutoSizeFont\obj\Debug\AutoSizeFont.pdb
